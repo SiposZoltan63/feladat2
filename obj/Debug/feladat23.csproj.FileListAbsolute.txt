@@ -1,0 +1,7 @@
+C:\Users\siposz\Gitwork\feladat23\bin\Debug\feladat23.exe.config
+C:\Users\siposz\Gitwork\feladat23\bin\Debug\feladat23.exe
+C:\Users\siposz\Gitwork\feladat23\bin\Debug\feladat23.pdb
+C:\Users\siposz\Gitwork\feladat23\obj\Debug\feladat23.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\feladat23\obj\Debug\feladat23.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\feladat23\obj\Debug\feladat23.exe
+C:\Users\siposz\Gitwork\feladat23\obj\Debug\feladat23.pdb
